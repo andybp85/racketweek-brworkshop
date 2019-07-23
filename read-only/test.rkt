@@ -1,0 +1,4 @@
+#lang read-only
+
+"hello world"
+(+ 1 (* 2 (- 3)))
